@@ -8,3 +8,7 @@ git branch -M main
 git remote add origin https://github.com/shulomithi07/Sorting-Visualizer.git
 git push -u origin main
                 
+                
+4 sorting algorithms visualization wriiten in C++ programming language 
+user is given a choice to select from 4 algorithms which they want to see visualized.
+After choosing the algorithms the array of random numbers is visualized
